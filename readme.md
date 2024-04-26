@@ -23,7 +23,7 @@ To run this project locally, you need to have the following installed:
 
 1. **Clone the repository**:
    ```bash
-    git clone https://github.com/sankalp51/redux-todolist.git master
+   git clone https://github.com/sankalp51/redux-todolist.git master
    cd redux-todolist
    ```
 2. **Install dependencies in reduxpratice**
